@@ -12,9 +12,6 @@
 </div>
 <div>
   {{ .Content }}
-  {{ range $page := .Site.Pages }}
-      {{ $page }}
-  {{ end }}
 </div>
 {{ partial "menu.html" . }}
 {{end}}

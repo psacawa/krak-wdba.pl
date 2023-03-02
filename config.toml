@@ -27,20 +27,17 @@ metaDataFormat= "yaml"
   enabled = true
   enableKatex = true
   metaKeywords = "fast, hugo, theme, minimal, gruvbox"
-  headerTitle = "Jane Doe"
-  copyright = "© 2021 Jane Doe.  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>."
-  name = "jane_doe"
+  headerTitle = "Kraków Dba o Przestrzeń Publiczną"
+  # copyright = "©2023"
+  name = "jane_doe" #? 
   img = "images/biegacz+chwytak.png"
   img_title = "Biegacz z chwytakiem"
   # icon = "img/logo.png"
-  quote = "Kraków Dba o Przestreń Publiczna"
-  description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis urna cursus eget nunc scelerisque viverra mauris in aliquam. Quis risus sed vulputate odio ut. Sed turpis tincidunt id aliquet risus feugiat in ante metus. Bibendum at varius vel pharetra vel turpis. Semper viverra nam libero justo laoreet sit amet cursus. Mauris a diam maecenas sed enim ut sem."
+  quote = "Spacerując Dbajmy o Czystość Miasta"
+  description= "" # puste, zamiast tego używam ./content/_index.md
   licenseUrl = ""
 
  # Social icons
-  [[params.social]]
-    name = "gitlab"
-    url  = "https://gitlab.com/avron/gruvhugo"
 
   [[params.social]]
     name = "email"
@@ -53,23 +50,23 @@ metaDataFormat= "yaml"
   # add path to custom SCSS files here
   custom_scss = []
 
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about"
+# [menu]
+#   [[menu.main]]
+#     identifier = "about"
+#     name       = "About"
+#     url        = "about"
 
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "post/"
+#   [[menu.main]]
+#     identifier = "posts"
+#     name       = "Posts"
+#     url        = "post/"
 
-  [[menu.main]]
-    identifier = "wiki"
-    name       = "Wiki"
-    url        = "none"
+#   [[menu.main]]
+#     identifier = "wiki"
+#     name       = "Wiki"
+#     url        = "none"
 
-[markup]
+# [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.asciidocExt]
     backend = "html5"
