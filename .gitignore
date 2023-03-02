@@ -2,3 +2,4 @@ Adding pattern(s) to: .gitignore
 ... adding 'hugo'
 hugo
 resources/_gen
+public
