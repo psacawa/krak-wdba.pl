@@ -47,6 +47,7 @@ metaDataFormat= "yaml"
     url  = "mailto:krakówdba@gmail.com"
 
 [params.style]
+  enableDarkMode = false
   # add path to custom CSS files here
   custom_css = ['css/style.css']
   # add path to custom SCSS files here
