@@ -1,3 +1,8 @@
 img {
-  border-radius: 0px !important; 
+  border-radius: 0px !important;
+}
+
+#title404 {
+  font-size: 40px;
+  text-align: center;
 }

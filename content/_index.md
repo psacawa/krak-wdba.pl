@@ -17,7 +17,7 @@ Jesteśmy nowym ruchem obywatelskim składający się z osób chcących dbać o 
 
 **UWAGA 02/03/20**: Ruch jest bardzo nowy. Jeśli rozrośnie, uaktualnię stronę oraz stworzę jakieś profily społecznościowe. Będzie można tam zdjięcia.
 
-## Jaki chwytak kupić
+## Jaki chwytak kupić?
 
 Chwytaki zwykle są lichej konstrukcji, do tej pory żaden nie okazał się bardzo wytrzymały. Radzimy kupować te tańsze, e.g. [tańsze]. 
 
