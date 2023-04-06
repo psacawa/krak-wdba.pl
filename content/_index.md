@@ -13,15 +13,15 @@ Jesteśmy nowym ruchem obywatelskim składający się z osób chcących dbać o 
 1. Kup sobie chwytak do zbierania śmieci.
 2. Spacerując lub biegając po mieście zbieraj śmieci i umieść je w śmietnikach.
 3. Weź udział w ulepszanie miasta.
-4. Zachęć innych do wzięcia udziału poprzez.
+4. Zachęć innych do wzięcia udziału poprzez noszenia koszuli podczas zbierania śmieci.
 
-**UWAGA 02/03/20**: Ruch jest bardzo nowy. Jeśli rozrośnie, uaktualnię stronę oraz stworzę jakieś profily społecznościowe. Będzie można tam zdjięcia.
+**UWAGA 02/03/23**: Ruch jest bardzo nowy. Jeśli rozrośnie, uaktualnię stronę oraz stworzę jakieś profily społecznościowe. Też nie mamy taniego sposobu wyrobu tych koszul.
 
 ## Jaki chwytak kupić?
 
 Chwytaki zwykle są lichej konstrukcji, do tej pory żaden nie okazał się bardzo wytrzymały. Radzimy kupować te tańsze, e.g. [tańsze]. 
 
-**UWAGA 02/03/20**: Jak znajdę lepszy modele, zamieszczę link do niego tutaj.
+**UWAGA 02/03/23**: Jak znajdę lepszy modele, zamieszczę link do niego tutaj.
 
 [tańsze]: https://allegro.pl/oferta/chwytak-do-smieci-76cm-z-magnesem-dlugi-lekki-10515364681
 
