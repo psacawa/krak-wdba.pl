@@ -1,4 +1,4 @@
-baseurl = "https://krakówdba.pl/"
+baseurl = "https://krakówdba.sacawa.net"
 title = "Kraków Dba o Przestrzeń Publiczną"
 languageCode = "pl-PL"
 paginate = "10" # Number of posts per page
@@ -23,7 +23,9 @@ metaDataFormat= "yaml"
   category = "categories"
   series   = "series"
 
+
 [params.main]
+  matomoHost = "matomo.sacawa.net"
   enabled = true
   enableKatex = true
   metaKeywords = "fast, hugo, theme, minimal, gruvbox"
@@ -41,7 +43,7 @@ metaDataFormat= "yaml"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:krakówdba@gmail.com"
+    url  = "mailto:krakowdba@gmail.com"
 
 [params.style]
   enableDarkMode = false
